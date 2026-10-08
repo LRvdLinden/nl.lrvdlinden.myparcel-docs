@@ -1,6 +1,6 @@
 # DPD
 
-![DPD](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/dpd/assets/images/large.png)
+![DPD](../../media/drivers/dpd/assets/images/large.png)
 
 **Region:** 🇪🇺 Europe
 

@@ -1,6 +1,6 @@
 # UPS
 
-![UPS](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/ups/assets/images/large.png)
+![UPS](../../media/drivers/ups/assets/images/large.png)
 
 **Region:** 🌍 International
 

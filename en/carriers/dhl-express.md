@@ -1,6 +1,6 @@
 # DHL Express
 
-![DHL Express](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/dhl-express/assets/images/large.png)
+![DHL Express](../../media/drivers/dhl-express/assets/images/large.png)
 
 **Region:** 🌍 International
 

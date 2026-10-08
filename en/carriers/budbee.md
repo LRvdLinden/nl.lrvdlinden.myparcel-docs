@@ -1,6 +1,6 @@
 # Budbee
 
-![Budbee](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/budbee/assets/images/large.png)
+![Budbee](../../media/drivers/budbee/assets/images/large.png)
 
 **Region:** 🇳🇱 🇸🇪 🇩🇰
 
