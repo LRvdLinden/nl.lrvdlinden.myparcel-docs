@@ -1,6 +1,6 @@
 # GLS
 
-![GLS](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/gls/assets/images/large.png)
+![GLS](../../media/drivers/gls/assets/images/large.png)
 
 **Gebied:** 🇪🇺 Europe
 

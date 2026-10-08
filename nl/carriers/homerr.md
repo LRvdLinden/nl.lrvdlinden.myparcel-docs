@@ -1,6 +1,6 @@
 # Homerr
 
-![Homerr](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/homerr/assets/images/large.png)
+![Homerr](../../media/drivers/homerr/assets/images/large.png)
 
 **Gebied:** 🇳🇱 🇧🇪 🇫🇷
 

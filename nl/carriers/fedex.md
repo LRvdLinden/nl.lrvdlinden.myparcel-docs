@@ -1,6 +1,6 @@
 # FedEx
 
-![FedEx](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/fedex/assets/images/large.png)
+![FedEx](../../media/drivers/fedex/assets/images/large.png)
 
 **Gebied:** 🌍 International
 

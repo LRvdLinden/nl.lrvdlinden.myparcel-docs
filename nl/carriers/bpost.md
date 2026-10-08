@@ -1,6 +1,6 @@
 # bpost
 
-![bpost](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/bpost/assets/images/large.png)
+![bpost](../../media/drivers/bpost/assets/images/large.png)
 
 **Gebied:** 🇧🇪 Belgium
 

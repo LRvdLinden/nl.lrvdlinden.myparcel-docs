@@ -1,6 +1,6 @@
 # InPost UK
 
-![InPost UK](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/inpost-uk/assets/images/large.png)
+![InPost UK](../../media/drivers/inpost-uk/assets/images/large.png)
 
 **Gebied:** 🇬🇧 United Kingdom
 
