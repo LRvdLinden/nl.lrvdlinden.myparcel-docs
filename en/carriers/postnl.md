@@ -1,6 +1,6 @@
 # PostNL
 
-![PostNL](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/postnl/assets/images/large.png)
+![PostNL](../../media/drivers/postnl/assets/images/large.png)
 
 **Region:** 🇳🇱 Netherlands
 

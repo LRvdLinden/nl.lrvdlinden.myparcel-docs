@@ -1,6 +1,6 @@
 # Welcome
 
-![MyParcel](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/assets/images/large.png)
+![MyParcel](../media/assets/images/large.png)
 
 MyParcel brings supported parcel carriers together in Homey. Link the carrier accounts you use and see deliveries, devices and automations in one place.
 
