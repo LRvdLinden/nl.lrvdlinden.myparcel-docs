@@ -1,6 +1,6 @@
 # Royal Mail
 
-![Royal Mail](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/royal-mail/assets/images/large.png)
+![Royal Mail](../../media/drivers/royal-mail/assets/images/large.png)
 
 **Region:** 🇬🇧 United Kingdom
 

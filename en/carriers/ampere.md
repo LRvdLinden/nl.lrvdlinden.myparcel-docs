@@ -1,6 +1,6 @@
 # Ampère
 
-![Ampère](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/ampere/assets/images/large.png)
+![Ampère](../../media/drivers/ampere/assets/images/large.png)
 
 **Region:** 🇳🇱 Netherlands
 

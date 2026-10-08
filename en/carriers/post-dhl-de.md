@@ -1,6 +1,6 @@
 # Post & DHL Germany
 
-![Post & DHL Germany](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/post-dhl-de/assets/images/large.png)
+![Post & DHL Germany](../../media/drivers/post-dhl-de/assets/images/large.png)
 
 **Region:** 🇩🇪 Germany
 
