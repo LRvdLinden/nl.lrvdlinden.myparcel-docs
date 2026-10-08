@@ -1,6 +1,6 @@
 # DHL
 
-![DHL](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/drivers/dhl-parcel/assets/images/large.png)
+![DHL](../../media/drivers/dhl-parcel/assets/images/large.png)
 
 **Gebied:** 🇳🇱 Netherlands
 

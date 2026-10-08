@@ -1,6 +1,6 @@
 # Welkom
 
-![MyParcel](https://raw.githubusercontent.com/LRvdLinden/nl.lrvdlinden.myparcel/main/assets/images/large.png)
+![MyParcel](../media/assets/images/large.png)
 
 MyParcel brengt je ondersteunde pakketvervoerders samen in Homey. Voeg de accounts toe die je gebruikt en bekijk je bezorgingen, apparaten en automatiseringen op één plek.
 
