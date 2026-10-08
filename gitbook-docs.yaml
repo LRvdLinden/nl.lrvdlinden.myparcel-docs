@@ -1,0 +1,19 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: MyParcel for Homey
+  structure:
+    - type: space
+      key: myparcel-nl
+      title: Nederlands
+      path: nl
+      default: true
+      content:
+        directory: ./nl
+        language: nl
+    - type: space
+      key: myparcel-en
+      title: English
+      path: en
+      content:
+        directory: ./en
+        language: en

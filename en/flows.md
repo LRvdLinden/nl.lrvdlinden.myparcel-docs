@@ -1,0 +1,103 @@
+# Flow cards
+
+## When
+
+- `new_mail`
+- `new_package`
+- `package_status_changed`
+- `sync_failed`
+- `login_expired`
+- `status_changed`
+- `shipment_delivered`
+- `dpd_new_package`
+- `dpd_status_changed`
+- `ups_new_package`
+- `ups_status_changed`
+- `budbee_new_package`
+- `budbee_status_changed`
+- `homerr_package_status_changed`
+- `fedex_new_package`
+- `fedex_status_changed`
+- `gls_new_package`
+- `gls_status_changed`
+- `inpost_uk_new_package`
+- `inpost_uk_status_changed`
+- `bpost_new_package`
+- `bpost_status_changed`
+- `royal_mail_new_package`
+- `royal_mail_status_changed`
+- `bpost_delivery_updated`
+- `bpost_delivered`
+- `ups_delivered`
+- `connection_status_changed`
+- `postnl_delivery_window_changed`
+- `dhl_delivery_window_changed`
+- `dpd_delivery_window_changed`
+- `ups_delivery_window_changed`
+- `budbee_delivery_window_changed`
+- `gls_delivery_window_changed`
+- `bpost_delivery_window_changed`
+- `dhl_de_delivery_window_changed`
+- `dpd_delivery_updated`
+- `dpd_delivered`
+- `ampere_new_package`
+- `ampere_status_changed`
+- `ampere_delivery_updated`
+- `ampere_delivery_window_changed`
+- `ampere_delivered`
+- `dhl_express_new_package`
+- `dhl_express_status_changed`
+- `dhl_express_delivery_updated`
+- `dhl_express_delivered`
+- `delivery_window_known`
+
+## And
+
+- `mail_expected`
+- `packages_underway`
+- `is_delivered`
+- `dpd_packages_underway`
+- `ups_packages_underway`
+- `budbee_packages_underway`
+- `homerr_packages_underway`
+- `fedex_packages_underway`
+- `gls_packages_underway`
+- `inpost_uk_packages_underway`
+- `bpost_packages_underway`
+- `royal_mail_packages_underway`
+- `bpost_account_connected`
+- `ups_account_connected`
+- `postnl_delivery_window_known`
+- `dhl_delivery_window_known`
+- `dpd_delivery_window_known`
+- `ups_delivery_window_known`
+- `budbee_delivery_window_known`
+- `gls_delivery_window_known`
+- `bpost_delivery_window_known`
+- `dhl_de_delivery_window_known`
+- `ampere_packages_underway`
+- `ampere_delivery_window_known`
+- `ampere_is_delivered`
+- `ampere_is_connected`
+- `dhl_express_packages_underway`
+- `dhl_express_is_connected`
+- `dhl_express_delivery_window_known`
+- `delivery_window_known`
+
+## Then
+
+- `sync_now`
+- `refresh_shipment`
+- `dpd_refresh`
+- `ups_refresh`
+- `budbee_refresh`
+- `homerr_refresh`
+- `fedex_refresh`
+- `gls_refresh`
+- `inpost_uk_refresh`
+- `bpost_refresh`
+- `royal_mail_refresh`
+- `ampere_refresh`
+- `dhl_express_refresh`
+
+Available data depends on the carrier and shipment. Not every field is populated for every parcel.
