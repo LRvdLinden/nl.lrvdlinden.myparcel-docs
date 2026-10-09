@@ -2,8 +2,7 @@
 
 * [Welcome](README.md)
 * [Install and connect](installation.md)
-* [Full catalogue (Account / Tracking / API)](catalogue.md)
-* [Supported carriers](carriers/README.md)
+* [Carriers (76+)](carriers/README.md)
   * [PostNL](carriers/postnl.md)
   * [DHL](carriers/dhl-parcel.md)
   * [DHL Express](carriers/dhl-express.md)

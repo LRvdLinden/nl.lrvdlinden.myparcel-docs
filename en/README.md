@@ -7,7 +7,7 @@ MyParcel brings supported parcel carriers together in Homey. Link the carrier ac
 ## Start here
 
 * [Install and connect](installation.md)
-* [Supported carriers](carriers/README.md)
+* [Carriers](carriers/README.md)
 * [Widgets](widgets.md)
 * [Flow cards](flows.md)
 * [Troubleshooting](troubleshooting.md)

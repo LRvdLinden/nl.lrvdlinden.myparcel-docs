@@ -2,8 +2,7 @@
 
 * [Welkom](README.md)
 * [Installeren en koppelen](installation.md)
-* [Complete catalogus (Account / Tracking / API)](catalogue.md)
-* [Ondersteunde vervoerders](carriers/README.md)
+* [Vervoerders (76+)](carriers/README.md)
   * [PostNL](carriers/postnl.md)
   * [DHL](carriers/dhl-parcel.md)
   * [DHL Express](carriers/dhl-express.md)

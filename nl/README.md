@@ -7,7 +7,7 @@ MyParcel brengt je ondersteunde pakketvervoerders samen in Homey. Voeg de accoun
 ## Begin hier
 
 * [Installeren en koppelen](installation.md)
-* [Ondersteunde vervoerders](carriers/README.md)
+* [Vervoerders](carriers/README.md)
 * [Widgets](widgets.md)
 * [Flow-kaarten](flows.md)
 * [Problemen oplossen](troubleshooting.md)
