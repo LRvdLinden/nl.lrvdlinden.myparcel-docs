@@ -1,0 +1,29 @@
+name: Release MyParcel Docs v1.1.0
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/release-docs-110.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create GitHub release v1.1.0
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if gh release view v1.1.0 >/dev/null 2>&1; then
+            gh release delete v1.1.0 --cleanup-tag -y
+            sleep 5
+          fi
+          gh release create v1.1.0 \
+            --target "${GITHUB_SHA}" \
+            --title "MyParcel Docs v1.1.0 — app v0.3.7" \
+            --notes-file .github/release-notes/v1.1.0.md \
+            --latest

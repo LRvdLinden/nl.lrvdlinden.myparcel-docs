@@ -1,10 +1,10 @@
 # Vervoerders
 
-**76 vervoerders en meer onderweg.** De volledige catalogus is gebaseerd op de [referentielijst](https://ha-parcel-integrations.github.io/carriers/). De carriers die al als apparaat in MyParcel for Homey bestaan krijgen het label **Supported in Homey**; de rest **Coming soon**.
+**78 vervoerders in de catalogus, waarvan 21 al in Homey** (19 apparaten; Intelcom valt onder Dragonfly en BRT onder DPD). De overige vervoerders staan in onze referentiecatalogus met het label **Coming soon**.
 
 [**Bekijk de interactieve vervoerderspagina met Details-popups →**](https://lrvdlinden.github.io/nl.lrvdlinden.myparcel-docs/carriers/)
 
-De interactieve pagina heeft dezelfde compacte kaarten, Account / Tracking / API-labels, landen, versie-informatie van de referentie en een popup met Capabilities. GitHub-knoppen zijn verwijderd. De versie- en BETA-labels uit de referentie zijn geen versienummers of kwaliteitslabels van de Homey-app.
+De interactieve pagina heeft compacte kaarten met Account / Tracking / API-labels, landen, een filter op beschikbaarheid en een popup met Capabilities. Voor vervoerders die nog niet beschikbaar zijn is de koppelmethode indicatief.
 
 > GitBook Git Sync toont Markdown. Voor de interactieve HTML moet GitHub Pages zijn ingeschakeld op branch `main`, root `/` (of een andere HTML-host worden gebruikt).
 
